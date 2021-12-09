@@ -153,6 +153,10 @@ header div {
     padding: 0px;
 }
 
+.texto ul li {
+    margin-bottom: 30px;
+}
+
 .texto ul {
     list-style-position: inside;
 }
