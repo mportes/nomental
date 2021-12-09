@@ -482,6 +482,10 @@ header div {
     .primeiro {
         margin-top: 40px;
     }
+
+    #a4 {
+        font-size: 3.7em;
+    }
 }
 /*-------------------------------------------------------------------------------------------------------------------------------------------*/
 @media(max-width: 750px) {
@@ -594,5 +598,9 @@ header div {
 
     #musica1, #musica2, #musica3, #musica4 {
         font-size: 17px;
+    }
+
+    #a4 {
+        font-size: 1.8em;
     }
 }
